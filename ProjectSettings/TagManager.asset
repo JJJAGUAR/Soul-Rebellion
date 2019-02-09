@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Enemigo
+  - Terreno
+  - Item
+  - Fire
+  - Enemy
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sin Luz Azul
+  - Paredes
+  - Poderes
+  - SinColision
+  - AntiPoderes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Primer layer
+    uniqueID: 1298380721
+    locked: 0
+  - name: Segundo layer
+    uniqueID: 2505021449
+    locked: 0
