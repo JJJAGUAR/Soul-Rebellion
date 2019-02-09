@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b7048403b2bcde949bef6970fadc4710
+timeCreated: 1513197779
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: After Disaster
+  fontNames:
+  - After Disaster
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
